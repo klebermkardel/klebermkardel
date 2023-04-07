@@ -34,7 +34,8 @@ Como profissional, sou dedicado, colaborativo e comprometido em oferecer solu√ß√
 
 ## Projetos
 - [Front Week](https://github.com/klebermkardel/front-week)
-- [CRUD](https://github.com/klebermkardel/CRUD)
+- [CRUD-JS](https://github.com/klebermkardel/CRUD)
+- [CRUD-PHP](https://github.com/klebermkardel/crud-php)
 
 
 
