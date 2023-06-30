@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/klebermkardel/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/klebermkardel" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/475654/github-color.svg" width="32" height="32" /></a> 
 <a href="https://medium.com/@molinakardel" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/363756/medium-logo-duotone.svg" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/molinakardel" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/606_instagram.jpg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/molinakardel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/768px-Instagram.svg.png" width="32" height="32" /></a>
 <a href="https://www.twitter.com/molinakardel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
 ## Sobre mim
