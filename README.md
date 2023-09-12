@@ -8,7 +8,7 @@
 <a href="https://www.github.com/klebermkardel" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/475654/github-color.svg" width="32" height="32" /></a> 
 <a href="https://medium.com/@molinakardel" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/363756/medium-logo-duotone.svg" width="32" height="32" /></a> 
 <a href="http://www.instagram.com/molinakardel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/768px-Instagram.svg.png" width="32" height="32" /></a>
-<a href="https://www.twitter.com/molinakardel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/molinacode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
 ## Sobre mim
 Sou um profissional em transição de carreira em busca de novas oportunidades como Desenvolvedor Front End. Tenho conhecimentos em HTML5, CSS3, JavaScript, React, Node, PHP e MySQL, e estou pronto para aplicar o que sei em projetos desafiadores.
@@ -26,7 +26,7 @@ Como profissional, sou dedicado, colaborativo e comprometido em oferecer soluç�
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.php.net/manual/pt_BR/intro-whatis.php" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.php.net/manual/pt_BR/intro-whatis.php" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="[https://www.w3.org/TR/CSS/#css](https://www.devmedia.com.br/introducao-ao-mysql/27799)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
