@@ -13,7 +13,7 @@
 ## Sobre mim
 Sou um profissional em transição de carreira em busca de novas oportunidades como Desenvolvedor Front End. Tenho conhecimentos em HTML5, CSS3, JavaScript, React, Node, PHP e MySQL, e estou pronto para aplicar o que sei em projetos desafiadores.
 
-Além da experiência em Metodologias Ágeis, estou cursando o 4º semestre de Ciência da Computação, onde tenho desenvolvido habilidades analíticas e técnicas para solucionar problemas complexos. Para aprimorar ainda mais minhas habilidades, tenho investido em cursos complementares com foco em Desenvolvimento Web e Front End, mantendo-me atualizado sobre as últimas tendências e melhores práticas do setor.
+Além da experiência em Metodologias Ágeis, estou cursando o 6º semestre de Ciência da Computação, onde tenho desenvolvido habilidades analíticas e técnicas para solucionar problemas complexos. Para aprimorar ainda mais minhas habilidades, tenho investido em cursos complementares com foco em Desenvolvimento Web e Front End, mantendo-me atualizado sobre as últimas tendências e melhores práticas do setor.
 
 Como profissional, sou dedicado, colaborativo e comprometido em oferecer soluções eficientes para atender às necessidades dos clientes. Estou ansioso para contribuir para projetos inovadores e trabalhar em equipe para alcançar os objetivos de negócios. Estou aberto a novas oportunidades e pronto para fazer a diferença em sua equipe.
 
@@ -27,7 +27,6 @@ Como profissional, sou dedicado, colaborativo e comprometido em oferecer soluç�
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/pt-br/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="nodejs" /></a>
 <a href="https://www.php.net/manual/pt_BR/intro-whatis.php" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="nodejs" /></a>
-<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="[https://www.w3.org/TR/CSS/#css](https://www.devmedia.com.br/introducao-ao-mysql/27799)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
