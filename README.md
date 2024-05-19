@@ -35,9 +35,3 @@ Como profissional, sou dedicado, colaborativo e comprometido em oferecer soluç�
 - [A Importância do Desenvolvimento Front End nos dias atuais](https://medium.com/@molinakardel/a-import%C3%A2ncia-do-desenvolvimento-front-end-nos-dias-atuais-11fcc511b3d2)
 - [A Importância de uma Graduação na Área de T.I.](https://medium.com/@molinakardel/a-import%C3%A2ncia-de-uma-gradua%C3%A7%C3%A3o-na-%C3%A1rea-de-t-i-a715dcae828e)
 
-## Projetos
-- [Costs](https://github.com/klebermkardel/costs)
-- [Validador de Senhas](https://github.com/klebermkardel/validador-senhas)
-- [CRUD-JS](https://github.com/klebermkardel/CRUD)
-
-
